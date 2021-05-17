@@ -39,7 +39,7 @@ def get_filters():
         print("That is not a valid month! try again")
         
 
-    # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
+    # TO DO: get user input for day of week (all, monday, tuesday, ... sunday). Monday.
     
     week = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"]
     
