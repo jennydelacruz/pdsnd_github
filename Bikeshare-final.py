@@ -28,6 +28,7 @@ def get_filters():
         
             
     # TO DO: get user input for month (all, january, february, ... , june)
+    #Added even more comments
     
     months = ["january", "february", "march", "april", "may", "june", "july"]
     
